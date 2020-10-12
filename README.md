@@ -16,3 +16,6 @@ In this repository I leave the site made in Boostrap on the DIO platform. https:
 ![alt text](https://github.com/DaniloPorto30/Boostrap_Dio_aula/blob/main/home2.png?raw=true)
 
 ----
+A fully responsive page was developed during the boostrap course.
+
+using HTML / CSS.
